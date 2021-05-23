@@ -10,7 +10,6 @@ if not symbol in {"*","/","+","-", "exp"}:
 second_number = float(input("type a second number: "))
 
 # addition +
-
 if symbol == "+": 
   print(first_number + second_number)
 
